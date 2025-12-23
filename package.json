@@ -1,0 +1,10 @@
+{
+  "name": "guess-number-game",
+  "version": "1.0.0",
+  "description": "Игра угадай число с использованием TCP",
+  "main": "game-server.js",
+  "scripts": {
+    "start": "node game-server.js"
+  }
+}
+
