@@ -1,6 +1,6 @@
 const net = require('net');
 
-// Получаем аргументы командной строки
+
 const args = process.argv.slice(2);
 
 if (args.length !== 2) {
